@@ -14,7 +14,7 @@ http://localhost/social-login_google
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/social-login_facebook/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/social-login_google/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
